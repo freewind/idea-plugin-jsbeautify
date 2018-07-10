@@ -33,7 +33,7 @@ Build the plugin to a zip
 
 It will generate the plugin file in `./build/distributions`
 
-Install it in IDEA, and configure a keyshort for it.
+Install it in IDEA, you will find it in the end of `Edit` menu. Don't forget give it a keyshort.
 
 Notice
 -------
