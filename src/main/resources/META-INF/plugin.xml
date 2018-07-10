@@ -30,7 +30,7 @@
 
     <actions>
 
-        <action id="action.popup" class="idea.jsbeautify.FormatAction" text="JsBeautify (html/css/js)" description="Use jsbeautify to format html/css/js files">
+        <action id="action.jsbeautify" class="idea.jsbeautify.FormatAction" text="JsBeautify (html/css/js)" description="Use jsbeautify to format html/css/js files">
             <add-to-group group-id="EditMenu" anchor="last"/>
         </action>
 
