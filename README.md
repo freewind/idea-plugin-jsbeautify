@@ -18,12 +18,6 @@ Todo:
 - Make file types configurable
 - Publish to IntelliJ plugins repo
 
-Run plugin in IDEA:
-
-```
-./gradlew runIde
-```
-
 Build the plugin to a zip
 -------------------------
 
@@ -35,8 +29,9 @@ It will generate the plugin file in `./build/distributions`
 
 Install it in IDEA, you will find it in the end of `Edit` menu. Don't forget give it a keyshort.
 
-Notice
--------
+Run plugin for dev
+------------------
 
-- Use `version 'IC-2018.1.5'` every time to reduce download. (about 500M)
-- Don't forget to change `id` and `name` in `resources/META-INF/plugin.xml` to current project
+```
+./gradlew runIde
+```
