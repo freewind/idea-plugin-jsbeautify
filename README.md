@@ -5,7 +5,7 @@ Use the famous [html/css/js formatter](http://jsbeautifier.org/) to format code 
 
 Features:
 
-[x] Format html/htm/xhtml/xml/css/js/json/jsx files
+- Format html/htm/xhtml/xml/css/js/json/jsx files
 
 Problems:
 
@@ -13,10 +13,10 @@ Problems:
 
 Todo:
 
-[ ] Fix known issues
-[ ] Format selected text
-[ ] Make file types configurable
-[ ] Publish to IntelliJ plugins repo
+- Fix known issues
+- Format selected text
+- Make file types configurable
+- Publish to IntelliJ plugins repo
 
 Run plugin in IDEA:
 
